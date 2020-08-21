@@ -1,0 +1,59 @@
+{
+  "/google/java/nomulus": {
+    "languages": [
+      {
+        "language": "java"
+      }
+    ]
+  },
+  "/google/java/closure-compiler": {
+    "languages": [
+      {
+        "language": "java",
+        "build_tool": "maven"
+      }
+    ]
+  },
+  "/google/js/blockly": {
+    "languages": [
+      {
+        "language": "js"
+      }
+    ]
+  },
+  "/google/js/shaka-player": {
+    "languages": [
+      {
+        "language": "js"
+      }
+    ]
+  },
+  "/google/python/trax": {
+    "languages": [
+      {
+        "language": "python"
+      }
+    ]
+  },
+  "/google/python/fuzzbench": {
+    "languages": [
+      {
+        "language": "python"
+      }
+    ]
+  },
+  "/google/typescript/neuroglancer": {
+    "languages": [
+      {
+        "language": "typescript"
+      }
+    ]
+  },
+  "/google/typescript/ground-platform": {
+    "languages": [
+      {
+        "language": "typescript"
+      }
+    ]
+  }
+}
